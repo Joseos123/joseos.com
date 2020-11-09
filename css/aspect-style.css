@@ -33,7 +33,7 @@
 
 #ui-canvas { background-position: center center; }
 
-#container-id-3- { background-image: url("../img/-project-image-1.jpeg"); }
+#container-id-3- { background-image: url("../img/-project-image-1.jpg"); }
 
 @media (min-width:1025px) {#container-id-3- > * { flex-grow: 1; }
 
