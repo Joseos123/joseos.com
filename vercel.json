@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/rickroll", "destination": "https://github.com/Joseos123" },
+    { "source": "/rickroll", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
     { "source": "/linux", "destination": "https://github.com/Joseos123" }
   ]
 }
